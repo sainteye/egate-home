@@ -1,1 +1,3 @@
-# egate Trade - Your Equity Gate
+# egate Trade
+
+## Manage your fund portfolio
