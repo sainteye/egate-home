@@ -1,3 +1,3 @@
-# egate Trade
+## egate Trade
 
-## Manage your fund portfolio
+### Manage your fund portfolio
