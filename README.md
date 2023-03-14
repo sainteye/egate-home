@@ -1,1 +1,1 @@
-# egate-home
+# egate Trade - Your Equity Gate
